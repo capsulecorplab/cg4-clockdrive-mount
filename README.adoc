@@ -1,0 +1,4 @@
+= CG4 Clockdrive Mount =
+
+Clockdrive mount for a Nema 17 Stepper Motor for use on a CG-4 German Equatorial Mount
+
